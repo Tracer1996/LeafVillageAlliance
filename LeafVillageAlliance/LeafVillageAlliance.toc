@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Leaf Village Alliance
+## Notes: Shared alliance chat and roster panel for partner guilds
+## Author: Codex
+## Version: 1.0
+## SavedVariables: LeafAllianceGlobalDB
+## SavedVariablesPerCharacter: LeafAllianceDB
+
+LeafVillageAlliance.lua
